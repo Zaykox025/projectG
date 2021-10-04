@@ -1,0 +1,12 @@
+
+.dark__element-box{
+    background-color: #000000;
+    height: 300px;
+    width: 80%;
+}
+
+.dark__element-img{
+    background-color: blue;
+    height: 400px;
+    width: 300px; 
+}
