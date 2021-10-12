@@ -1,4 +1,0 @@
-1.Dentro de la carpeta portafolio  encontrara los archivos salu.html y style.css que es el portafolio
-2.Dentro de la carpeta portafolio encontrara  la carpeta manuales, donde estan los dos 
-3.Dentro de la carpeta portafolio  encontrara  la carpeta  CRUD  donde estara  el archivo  index.php
-4.Dentro de la carpeta  portafolio encontrara la carpeta  js donde  estar un archivo  proyectosjs.php
