@@ -1,0 +1,11 @@
+Descargue la cartpeta S2 que esta dentro de un winrar
+descomprimala  y mover la carpeta S2 a htdocs
+dentro  de la carpeta S2 estara el archivo h2.html 
+dentro de la carpeta js encontrara el archivo  proyectosjs.php
+dentro de la carpeta manuales estaran los archivos usuario.html y tecnico.html
+dentro de la carpeta CRUD  esta el archivo index.php
+la base de datos esta dentro de la carpeta CRUS y el archivo es bd.
+
+
+gracias por la revicion
+Cuaquier cosa porfavor avisarme
